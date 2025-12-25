@@ -1,6 +1,6 @@
-# 🎵 Mood Music Recommender
+# 🎵 Mood-Based Music Recommender
 
-The Mood Music Recommender is an innovative, web-based application designed to bridge the gap between your emotional state and the perfect musical accompaniment. Forget endless scrolling; this recommender instantly curates a personalized playlist based on your current emotional input, ensuring your music always resonates with your feelings. Built for an intuitive and responsive user experience, this app transforms mood detection into immediate musical gratification.
+The Mood-Based Music Recommender is an innovative, web-based application designed to bridge the gap between your emotional state and the perfect musical accompaniment. Forget endless scrolling; this recommender instantly curates a personalized playlist based on your current emotional input, ensuring your music always resonates with your feelings. Built for an intuitive and responsive user experience, this app transforms mood detection into immediate musical gratification.
 
 ## ✨ Features
 
